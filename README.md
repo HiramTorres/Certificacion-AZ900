@@ -1,4 +1,6 @@
-# Azure Fundamentals
+# Azure Fundamentals 
+Hecho por Ricardo Mirón 
+
 Resumen de los contenidos para la certificación AZ-900.
 
 # Parte 1 - Descripción de los conceptos básicos de Azure
